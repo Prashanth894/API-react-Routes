@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/API-react-routes/static/css/main.7a12e955.css",
+    "main.js": "/API-react-routes/static/js/main.5373fa0c.js",
+    "static/js/787.e6050102.chunk.js": "/API-react-routes/static/js/787.e6050102.chunk.js",
+    "static/media/nasa.png": "/API-react-routes/static/media/nasa.dc451a7d7602f35b7407.png",
+    "static/media/image.jpg": "/API-react-routes/static/media/image.464fe7909300429ae9cd.jpg",
+    "static/media/crypto.png": "/API-react-routes/static/media/crypto.c04c91d2490e5030184e.png",
+    "static/media/covid.png": "/API-react-routes/static/media/covid.24db8e05ca760d94218c.png",
+    "static/media/mern.jpg": "/API-react-routes/static/media/mern.ff280d1d94730bec9f56.jpg",
+    "index.html": "/API-react-routes/index.html",
+    "main.7a12e955.css.map": "/API-react-routes/static/css/main.7a12e955.css.map",
+    "main.5373fa0c.js.map": "/API-react-routes/static/js/main.5373fa0c.js.map",
+    "787.e6050102.chunk.js.map": "/API-react-routes/static/js/787.e6050102.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a12e955.css",
+    "static/js/main.5373fa0c.js"
+  ]
+}
